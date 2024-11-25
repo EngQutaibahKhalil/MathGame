@@ -1,0 +1,7 @@
+﻿  MathGame.cpp
+D:\projects\visual studio projects\MathGame\MathGame.cpp(71,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+D:\projects\visual studio projects\MathGame\MathGame.cpp(179,1): warning C4715: 'NumberByLevels': not all control paths return a value
+D:\projects\visual studio projects\MathGame\MathGame.cpp(162,1): warning C4715: 'GetLevel': not all control paths return a value
+D:\projects\visual studio projects\MathGame\MathGame.cpp(198,1): warning C4715: 'GetOperationType': not all control paths return a value
+D:\projects\visual studio projects\MathGame\MathGame.cpp(241,1): warning C4715: 'TheCorrectAnswerIs': not all control paths return a value
+  MathGame.vcxproj -> D:\projects\visual studio projects\MathGame\x64\Debug\MathGame.exe
